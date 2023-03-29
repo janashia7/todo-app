@@ -65,7 +65,7 @@ The following types are used in the API:
 
 To interact with the API, users need to be authenticated with a valid `username` and `password`. This is done through HTTP headers in each request. When making a request to the server, make sure to include the following headers:
 
-```css
+```bash
 username: your_username
 password: your_password
 ```
